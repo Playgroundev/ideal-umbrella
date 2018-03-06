@@ -1,0 +1,12 @@
+C:\Users\USER\AppData\Local\Temporary Projects\QuadraticSolution\bin\Debug\QuadraticSolution.exe
+C:\Users\USER\AppData\Local\Temporary Projects\QuadraticSolution\bin\Debug\QuadraticSolution.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\QuadraticSolution\bin\Debug\QuadraticSolution.xml
+C:\Users\USER\AppData\Local\Temporary Projects\QuadraticSolution\obj\x86\Debug\QuadraticSolution.FrmQuadratic.resources
+C:\Users\USER\AppData\Local\Temporary Projects\QuadraticSolution\obj\x86\Debug\QuadraticSolution.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\QuadraticSolution\obj\x86\Debug\QuadraticSolution.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\QuadraticSolution\obj\x86\Debug\QuadraticSolution.exe
+C:\Users\USER\AppData\Local\Temporary Projects\QuadraticSolution\obj\x86\Debug\QuadraticSolution.xml
+C:\Users\USER\AppData\Local\Temporary Projects\QuadraticSolution\obj\x86\Debug\QuadraticSolution.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\QuadraticSolution\QuadraticSolution\obj\x86\Debug\QuadraticSolution.exe
+C:\Users\USER\documents\visual studio 2010\Projects\QuadraticSolution\QuadraticSolution\obj\x86\Debug\QuadraticSolution.xml
+C:\Users\USER\documents\visual studio 2010\Projects\QuadraticSolution\QuadraticSolution\obj\x86\Debug\QuadraticSolution.pdb
